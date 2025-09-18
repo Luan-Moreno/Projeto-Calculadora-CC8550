@@ -62,7 +62,11 @@ O objetivo desta atividade é aplicar os conceitos de testes de unidade e testes
 
 ## Autoria
 
-Atividade desenvolvida por alunos do último semestre de Ciência da Computação, como parte da disciplina Simulação e Teste de Software.
+Atividade desenvolvida pelos alunos de Ciência da Computação da disciplina CC8550 (Grupo K):
+- LUAN PETROUCIC MORENO – 22.122.076-7
+- VINICIUS HENRIQUE SILVA - 22.122.063-5
+- CAUÊ JACOMINI ZANATTI - 22.122.024-7
+- GIULLIANO MAZZARO CAMARGO – 22.121.024-8
 
 ---
 
